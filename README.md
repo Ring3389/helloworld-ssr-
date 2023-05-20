@@ -1,3 +1,4 @@
+ShadowsocksR Plus 
 ipk下载地址：https://github.com/ligl0702/ssipk/releases
 
 ## Setup instruction
