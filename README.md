@@ -1,3 +1,5 @@
+ipk下载地址：https://github.com/ligl0702/ssipk/releases
+
 ## Setup instruction
 
 ### Method 1 - Clone this repo directly
